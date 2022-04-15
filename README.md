@@ -46,7 +46,7 @@ Please follow the steps mentioned below to run the Application in your local:
 
     http://localhost:8080/api/swagger-ui.html
 
-7. A Spring Boot Batch Application is needed for processing User Reviews and update the Database with Top Rated Movies in Real-Time
+7. To run the test cases Right click the project and select Run 'All Tests' or execute below command in cmd
 
-    https://github.com/Nijanthan08/movies-spring-boot-batch
+    mvn test
 
